@@ -1,0 +1,28 @@
+﻿你已经了解很多 Web 开发的知识。在继续学习下一阶段之前，请暂停一下，思考并回答以下问题：
+
+  
+* 你学到了那些新技能？
+  
+* 哪些你觉得很容易？
+  
+* 哪些你觉得很难？
+  
+* 你运用了哪些之前介绍过的“开发者思维”来解决你在学习过程中遇到的困难？
+
+---
+
+在下方输入你的回答：
+
+1. I learned basic HTML grammar such as how to create divisions, paragraphs with bold and emphasis of 
+our choices, buttons, headers with varies sizes, unordered lists, hyperlinks, images, and figures. I 
+also learned basic structure of an html file. 
+
+2. I found that using known HTML grammar to write an html file is pretty simple.
+
+3. When there is some HTML element that I have never used before, searching for that element online can 
+be pretty challenging. For example, when I want a horizontal line in the file and I searched online for 
+that solution <hr></hr>, it took me quite a lot of time. Similar experience for <sup></sup> when I try 
+to create footnotes in my file.
+
+4. I try to refresh my html file in a browser from time to time to check if my html code is working 
+properly.
